@@ -20,7 +20,7 @@ Create a model that predict each kind of disease
 * Pakinson : Data available.
 * Tuberculosis.
 * Heart disease.
-* Chronic Kidney 
+* Chronic Kidney. 
 
 
 ## Types of data for possible diseases detection :
@@ -49,5 +49,24 @@ Create a model that predict each kind of disease
 ### LINK data
 * https://www.kaggle.com/sulianova/cardiovascular-disease-dataset.
 * https://www.kaggle.com/johnsmith88/heart-disease-dataset.
-* https://www.kaggle.com/mansoordaku/ckdisease
-* https://archive.ics.uci.edu/ml/datasets/Parkinson+Disease+Spiral+Drawings+Using+Digitized+Graphics+Tablet
+* https://www.kaggle.com/mansoordaku/ckdisease.
+* https://archive.ics.uci.edu/ml/datasets/Parkinson+Disease+Spiral+Drawings+Using+Digitized+Graphics+Tablet.
+
+## To Do list Short Term
+- [x] Create README with project objectives.
+- [ ] Talk to a doctor fot different ideas.
+- [ ] State Of The Art (similare projects and model predictions).
+- [ ] Business Model with Canvas.
+- [ ] Find a logo, a name and a slogan.
+
+#### Blood test diseases
+- [ ] Create a list of blood test diseases.
+- [ ] Find or create new dataset with different diseases linked to blood tests.
+
+#### Parkinson diseases
+- [ ] Work on parkinson voice frequency dataset.
+- [ ] Work on parkinson spiral drawings. 
+
+## To Do list Mid Term
+- [ ] Work on app (find frameworks and IDE's).
+- [ ] Find doctors and laboratories that will help on the project.
