@@ -20,19 +20,21 @@ Create a model that predict each kind of disease
 * Pakinson : Data available.
 * Tuberculosis.
 * Heart disease.
+* Chronic Kidney 
 
 
 ## Types of data for possible diseases detection :
-* Cardio arrhythmia : ?.
+* Cardio arrhythmia. 
+* Blood.
 * Voice frequency : Parkinson.
-* Images.
+* Images (optional).
 
 ## Typed of external & connected device for data collection (optional)
 * Blood test sensor.
 * Cardio frequency sensor.
 * Voice frequency sensor.
 * Thermometer.
-* Blood pressure 
+* Blood pressure. 
 
 ## Developers structure :
 * Doctor : Role of product owner. Helps defining the correct needs of the app.
@@ -47,4 +49,5 @@ Create a model that predict each kind of disease
 ### LINK data
 * https://www.kaggle.com/sulianova/cardiovascular-disease-dataset.
 * https://www.kaggle.com/johnsmith88/heart-disease-dataset.
-
+* https://www.kaggle.com/mansoordaku/ckdisease
+* https://archive.ics.uci.edu/ml/datasets/Parkinson+Disease+Spiral+Drawings+Using+Digitized+Graphics+Tablet
