@@ -54,7 +54,7 @@ Create a model that predict each kind of disease
 
 ## To Do list Short Term
 - [x] Create README with project objectives.
-- [ ] Talk to a doctor fot different ideas.
+- [ ] Talk to a doctor for different ideas.
 - [ ] State Of The Art (similare projects and model predictions).
 - [ ] Business Model with Canvas.
 - [ ] Find a logo, a name and a slogan.
