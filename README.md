@@ -51,7 +51,7 @@ Create a model that predict each kind of disease
 * https://www.kaggle.com/johnsmith88/heart-disease-dataset.
 * https://www.kaggle.com/mansoordaku/ckdisease.
 * https://archive.ics.uci.edu/ml/datasets/Parkinson+Disease+Spiral+Drawings+Using+Digitized+Graphics+Tablet.
-* Blood Test for Anemia detection : https://www.kaggle.com/alisabrie/anemia
+* Blood Test for Anemia detection : https://www.kaggle.com/alisabrie/anemia. Anemia explained : http://www.cscq.ch/SiteCSCQ/FichierPDF_FR/FT-MCV-MCH-MCHC-fr.pdf
 
 ## To Do list Short Term
 - [x] Create README with project objectives.
