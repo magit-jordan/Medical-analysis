@@ -55,7 +55,7 @@ Create a model that predict each kind of disease
 
 ## To Do list Short Term
 - [x] Create README with project objectives.
-- [ ] Talk to a doctor for different ideas.
+- [X] Talk to a doctor for different ideas.
 - [ ] State Of The Art (similare projects and model predictions).
 - [ ] Look for Hematology Disorders (blood diseases).
 - [ ] Business Model with Canvas.
