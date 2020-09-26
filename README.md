@@ -38,8 +38,8 @@ Create a model that predict each kind of disease
 
 ## Developers structure :
 * Doctor : Role of product owner. Helps defining the correct needs of the app.
-* Data engineer : Data structur and data collection.
-* Data science : Health prediction.
+* Data engineer : Data structure and data collection.
+* Data scientist : Health prediction.
 * App developpement (Android, IOS later) : Front end & back end (data base).
 
 ## Important information
