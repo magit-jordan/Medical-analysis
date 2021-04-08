@@ -62,8 +62,8 @@ Create a model that predict each kind of disease
 - [ ] Find a logo, a name and a slogan.
 
 #### Blood test diseases
-- [ ] Create a list of blood test diseases.
-- [ ] Find or create new dataset with different diseases linked to blood tests.
+- [X] Create a list of blood test diseases.
+- [X] Find or create new dataset with different diseases linked to blood tests.
 
 #### Parkinson diseases
 - [ ] Work on parkinson voice frequency dataset.
